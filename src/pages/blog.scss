@@ -1,0 +1,32 @@
+.blog-page {
+  ul {
+    list-style: none;
+    margin: 0;
+  }
+
+  .post {
+    margin: 2rem 0rem;
+    padding: 1rem;
+    background: #f4f4f4;
+
+    a {
+      color: #202020;
+      text-decoration: none;
+      display: block;
+    }
+
+    a:hover {
+      color: blue;
+    }
+
+    h2 {
+      margin-bottom: 0.7rem;
+    }
+
+    .date {
+      color: #777777;
+      font-size: 0.8;
+      font-style: italic;
+    }
+  }
+}

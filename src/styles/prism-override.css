@@ -1,0 +1,12 @@
+/* This is used the style the filename when we have some code blocks */
+.filename {
+  background: #202020;
+  color: yellow;
+  font-style: italic;
+  padding: 0.5rem;
+}
+
+pre[class*="language-"] {
+  margin: 0;
+  margin-bottom: 1.45rem;
+}
