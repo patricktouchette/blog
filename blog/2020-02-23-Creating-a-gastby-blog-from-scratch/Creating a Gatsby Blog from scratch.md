@@ -1,7 +1,9 @@
 ---
 title: "Creating a Gatsby Blog From Scratch"
-date: "2020/02/23"
 slug: "creating-a-gatsby-blog-from-scratch"
+author: "Patrick Touchette"
+date: "2020-02-23"
+category: ["code"]
 tags: ["javascript", "react", "gatsbyjs"]
 ---
 
